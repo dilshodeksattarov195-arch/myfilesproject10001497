@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsync",
+        "uuid": 1309875,
+        "checksum": "zgx3w"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
